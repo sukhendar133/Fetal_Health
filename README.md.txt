@@ -43,3 +43,4 @@ The columns are described from the data source as follows:
     histogram_variance - Variance of FHR histogram (generated from exam)
     histogram_tendency - Tendency of FHR histogram (generated from exam)
     fetal_health - Fetal health as assessed by expert obstetrician. 1 - Normal, 2 - Suspect, 3 - Pathological
+
